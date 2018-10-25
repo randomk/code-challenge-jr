@@ -1,4 +1,4 @@
-# Backend Engineer Code Challenge - Levee
+# Backend Engineer Code Challenge - Devops Santander
 
 Através desse desafio, queremos conhecer suas habilidades de desenvolvimento e principalmente como você resolve problemas.
 
@@ -55,7 +55,7 @@ O seu teste deve ter um README com os passos necessários para:
 
 ### Tecnologia
 
-Ruby ou Go.
+Java ou Go.
 
 ### Bônus hints:
 
@@ -77,4 +77,4 @@ Para nos enviar seu código, você pode:
 
 - Fazer um fork desse repositório e nos mandar um pull request.
 - Nos dar acesso ao seu repositório no github, bitbucket ou gitlab. Adicione o usuário bonigauglitz.
-- Se precisar falar com a gente: engenheria@levee.com.br.
+- Se precisar falar com a gente: rodrigomelgar@santander.com.br
